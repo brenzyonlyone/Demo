@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    h1{
+        border: 2px solid rgb(255, 0, 221);
+       text-align: center;
+        width: 250px;
+        height: 50px;
+        border-radius: 15px;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+</head>
+<body align="center">
+
+ <video height="800" width="1000"
+ autoplay controls>
+ <source src="Rolando.mp4" type="video/mp4">
+
+</body>
+</html>
